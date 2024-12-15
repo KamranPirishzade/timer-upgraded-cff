@@ -1,0 +1,38 @@
+
+
+.timer{
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+
+.inputs{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+
+.inputs input{
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button{
+    padding: 10px;
+}
+
+
+.storage ul{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
