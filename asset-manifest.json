@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timer-upgraded-cff/static/css/main.c6076b1b.css",
+    "main.js": "/timer-upgraded-cff/static/js/main.a1ce330f.js",
+    "index.html": "/timer-upgraded-cff/index.html",
+    "main.c6076b1b.css.map": "/timer-upgraded-cff/static/css/main.c6076b1b.css.map",
+    "main.a1ce330f.js.map": "/timer-upgraded-cff/static/js/main.a1ce330f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6076b1b.css",
+    "static/js/main.a1ce330f.js"
+  ]
+}
